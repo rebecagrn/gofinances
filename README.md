@@ -6,8 +6,7 @@
   <img src="src/assets/goFinance2.png" />
 </h1>
 
-# Indice
-- [React](#-React)
+# Índice
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 
 ---
@@ -16,21 +15,23 @@
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-- ReactJS
-- Axios
-- TypeScript
-- React-Dropzone
-- Filesize
-- Styled-Components
-- Date-fns
-- History
-- Polished
-- ReactIcons
+[x] ReactJS
+[x] Axios
+[x] TypeScript
+[x] React-Dropzone
+[x] Filesize
+[x] Styled-Components
+[x] Date-fns
+[x] History
+[x] Polished
+[x] ReactIcons
 
 ---
 
 # Iniciar o projeto
+```
   $ yarn start
+```
 
 <br /><br />
 **Desenvolvido por** [rebecag.com](https://www.rebecag.com/)
