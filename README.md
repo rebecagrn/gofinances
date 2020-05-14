@@ -15,16 +15,16 @@
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-[x] ReactJS
-[x] Axios
-[x] TypeScript
-[x] React-Dropzone
-[x] Filesize
-[x] Styled-Components
-[x] Date-fns
-[x] History
-[x] Polished
-[x] ReactIcons
+- ReactJS
+- Axios
+- TypeScript
+- React-Dropzone
+- Filesize
+- Styled-Components
+- Date-fns
+- History
+- Polished
+- ReactIcons
 
 ---
 
